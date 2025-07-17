@@ -1,0 +1,319 @@
+{
+  "greeting": "Hello, world!",
+  "welcome": "Welcome to my application.",
+  "dashboard": {
+    "title": "Dashboard",
+    "users": "Users"
+  },
+  "footer": "All rights reserved © {{year}}",
+
+
+  "tituloUnoHeroSection": "Your bank still uses",
+  "tituloDosHeroSection": "manual processes",
+  "tituloTresHeroSection": "for Conciliation",
+  "subtituloHeroSection": "Our electronic reconciliation solution optimizes your financial management, ensuring unparalleled accuracy by synchronizing every monetary transaction between your internal records and supplier invoicing. This facilitates early detection of errors and fraud, improves the efficiency of your electronic channels, reduces customer complaints, and generates significant savings by automating manual and error-prone processes.",
+  
+  "buttonChangeLanguage":"Español",
+
+  "headerOneOne":"100% Safe",
+  "headerOneTwo":"Real-Time Reports",
+  "headerOneThree":"Multi-user" , 
+
+  "headerTwoOne":"Request a Free Demo",
+
+  "headerThreeOne":"No commitment",
+  "headerThreeTwo":"Installation in 30-60 days",
+  "headerThreeThree":"24/7 Support",
+
+  "headerFourOne":"70% Time Reduction",
+  "headerFourTwo":"99.9% Reporting Accuracy",
+
+  "sectionTwoOne------": "----------------",
+  "titleSectionTwo": "The Greatest Challenges in Electronic Bank Reconciliation in its payment channels and methods.",
+  "subTitleSectionTwo": "Banking institutions today face a series of complex challenges in efficiently reconciling their electronic channels and payment methods. Despite increasing automation, new products, and the evolving scale and nature of digital transactions, there are persistent obstacles that require innovative solutions.",
+
+   "columOneOneSectionTwo": "Current Problems",
+
+  "columOneTwoSectionTwoTitle": "Loss of valuable time on repetitive tasks",
+  "columOneTwoSectionTwoSubtitle": "Manual processes that consume hours of specialized work daily.",
+
+  "columOneThreeSectionTwoTitle": "High risk of human error",
+  "columOneThreeSectionTwosubtitle": "Frequent reconciliation errors lead to commission errors, which is a source of discomfort for both affiliated banks and customers.",
+
+  "columOneFourSectionTwoTitle": "Difficulty in complying with regulations",
+  "columOneFourSectionTwoSubtitle": "Complexity in generating accurate reports that comply with local and international regulations.",
+
+  "columFiveSectionTwoTitle": "Slow and inaccurate reporting",
+  "columFiveSectionTwoSubtitle": "Late generation of reports that affects strategic decision-making.",
+
+  "sectionTwoTwo-------------": "----------------",
+
+   "titleSectionTwoTwo": "Our Solution",
+   
+   "columTwoOneSectionTwoTitle": "Electronic Transaction Reconciliation System.",
+   "columTwoOneSectionTwoSubTile": "Ensures the integrity and consistency of financial data across all affiliated banks and interconnected networks.",
+   
+   "columTwoTwoSectionTwoTitle": "Reconciliation of financial transactions in real time or in batches.",
+   "columTwoTwoSectionTwoSubTile": "Ensures automatic and accurate reconciliation of transactions between interconnected banks and networks, identifying potential claims and optimizing the ability to clear funds and assets, ensuring liquidity is available when needed.",
+
+   "columTwoThreeSectionTwoTitle": "Fraud detection",
+   "columTwoThreeSectionTwoSubTile": "It allows you to identify anomalous or fraudulent transactions that could go unnoticed in a manual process.",
+   
+   "columTwoFourSectionTwoTitle": "Operational efficiency",
+   "columTwoFourSectionTwoSubTile": "It automates a process that would otherwise be manual, tedious, and error-prone, freeing up human resources for higher-value tasks.",
+
+   "columTwoFiveSectionTwoTitle": "Regulatory compliance",
+   "columTwoFiveSectionTwoSubTile": "Helps the bank comply with financial and auditing regulations requiring accurate records.",
+
+   "columTwoSixSectionTwoTitle": "Improving customer experience",
+   "columTwoSixSectionTwoSubTile": "By quickly resolving discrepancies, customers are prevented from inconveniences and confidence in the bank is improved.",
+
+   "columTwoSevenSectionTwoTitle": "The rise of open networks",
+   "columTwoSevenSectionTwoSubTile": " Without a common infrastructure that allows for secure and efficient communication between participating institutions, regardless of their individual systems or protocols.",
+
+   "columTwoEightSectionTwoTitle": "Compatibility",
+   "columTwoEightSectionTwoSubTile": " It does not use standardized messaging protocols and formats, and does not guarantee compatibility and interoperability between participating institutions.",
+
+   "columTwoNinetSectionTwoTitle": "Innovation",
+   "columTwoNineSectionTwoSubTile": "Integration with fintech companies. Designed to adapt to the growing needs of the financial industry.",
+
+
+   "sectionTwoThree-------------": "----------------",
+
+  "sectionTwoThreeTitle": "Economic Impact",
+  
+  "sectionTwoThreeSubtitleOne": "Improves liquidity management",
+  "sectionTwoThreeSubtitleTwo": "Weekly time spent on manual processes",
+
+  "sectionTwoThreeTitletwo": "Measurable Benefits",
+  
+  "sectionTwoThreeSubtitleOneTwo": "Monthly averages LBTR",
+  "sectionTwoThreeSubtitleTwoTwo": "Reduction Operational costs",
+
+  "sectionTwoFour-------------": "----------------",
+
+  "titleSectionTwoFour": "Achievements Obtained by Our Clients in the Financial Sector",
+  "subtitleSectionTwoFour": "Our clients in the banking sector have successfully transformed significant challenges into operational and strategic advantages, demonstrating exceptional resilience and efficiency.",
+
+
+   "keyFeactures------":"----------------",
+   
+  "features": {
+    "title": "Key Advantages",
+    "subtitle": "Explore the key advantages that make our solution unique and highly effective.",
+    "feature1": {
+      "title": "💾 Transaction Processing Optimization",
+      "description": "They have efficiently managed the high volume and speed of transactions, processing, reflecting, and reconciling a massive daily flow of transactions in real time, even under the most demanding conditions."
+    },
+    "feature2": {
+      "title": "📋 Data Unification and Normalization",
+      "description": "The main objective of the process is to ensure the integrity and consistency of financial information at the systemic level. The central bank plays a fundamental role in supervising the settlement system and ensuring financial stability. The integrity of the financial system remains intact."   },
+    "feature3": {
+      "title": "🛡️ Simplifying Operational Complexity",
+      "description": "Our clients have been able to simplify transactional complexity, efficiently handling intricate operations such as international payments, foreign exchange transactions, reversals, and the management of fees and charges, resulting in faster and more accurate reconciliation."
+    },
+    "feature4": {
+      "title": "👥 Reduction of Discrepancies and Errors",
+      "description": "They have implemented solutions that significantly minimize discrepancies and errors, addressing time differences in transaction recording, human or systemic errors, and inaccurate transaction identification, reducing the need for manual intervention and improving financial accuracy."
+    },
+    "feature5": {
+      "title": "📊 Impeccable Regulatory Compliance",
+      "description": "The netting process nets transactions between banks to calculate net balances payable or receivable, reducing the number of individual transfers. Real-time settlement (LBTR) system settle transactions instantly."
+    },
+    "feature6": {
+      "title": "🔄 Strengthening Security and Fraud Detection",
+      "description": "They have implemented robust fraud detection and cybersecurity systems, ensuring the protection of sensitive data and effectively mitigating the growing cyber risk."
+    }
+  },
+
+  "Cutting-edgeTechnology------":"----------------",
+
+  "Cutting-edgetechnologyTitle":"Other Important Benefits",
+
+  "Cutting-edgetechnologyTitleOne":"Adaptability and Future Scalability",
+  "Cutting-edgetechnologySubTitleOne":"Our systems are designed to be scalable and flexible, quickly adapting to exponential transaction growth and the integration of new financial products and services. This includes solutions for Payment Service Providers (PSPs), cryptocurrencies, and instant payments, preparing our clients for the future.",
+
+
+  "Cutting-edgetechnologyTitleTwo":"Data-driven decision-making",
+  "Cutting-edgetechnologySubTitleTwo":"Generates analytical reports on transaction patterns, helping to optimize financial processes and business strategies.",
+  
+  "Cutting-edgetechnologyTitleThree":"Early and proactive warnings",
+  "Cutting-edgetechnologySubTitleThree":"Set up automatic notifications for irregularities (such as shortages or duplications), enabling quick action.",
+
+  "Cutting-edgetechnologyTitleFour":"Reduction of operating costs",
+  "Cutting-edgetechnologySubTitleFour":"It reduces the need for dedicated personnel to perform manual reviews, reducing payroll costs and potential fines for errors.",
+
+  "Cutting-edgetechnologyTitleFive":"Integration with other financial systems",
+  "Cutting-edgetechnologySubTitleFive":"It can connect to ERPs, treasury systems, or e-banking platforms for a unified data flow.",
+
+  "Cutting-edgetechnologyTitleSix":"Scalability for high transaction volume",
+  "Cutting-edgetechnologySubTitleSix":"It allows you to handle large volumes of operations without overloading resources, ideal for growing companies or those experiencing peak activity.",
+
+
+  "AnalyticsAvanced------":"----------------",
+
+  "AnalyticsAvancedTitle": "Advanced Analytics",
+
+  "AnalyticsAvancedTitleOne":"Live Metrics",
+  "AnalyticsAvancedSubTitleOne":"Continuous monitoring of volumes, processing times and error rates",
+
+  "AnalyticsAvancedTitleTwo":"Smart Alerts",
+  "AnalyticsAvancedSubTitleTwo":"Automatic notifications in case of discrepancies or situations that require attention",
+
+  "AnalyticsAvancedTitleThree":"Custom Reports",
+  "AnalyticsAvancedSubTitleThree":"Generation of specific reports according to the needs of each department",
+
+
+  "Testimonial------":"----------------",
+  
+  "TestimonialTitleOne":"Since we implemented this central locking system, we managed to reduce by a",
+  "TestimonialTitleTwo":"70% of the time",
+   "TestimonialTitleThree":"intended for these processes and we improve the",
+   "TestimonialTitleFour":"accuracy of our regulatory reports",
+
+   "TestimonialSubTitleFive":"Operations Manager",
+    "TestimonialSubTitleSix":"Banco Regional S.A.",
+
+    "Result-----":"----------------",
+
+    "ResultTitle":"Results Obtained:",
+    "ResultOne":"Time reduction",
+    "ResultTwo":"Reporting accuracy",
+    "ResultThree":"Annual savings",
+    "ResultFour":"Availability",
+
+    "ImplementationTitle":"Successful Implementation",
+    "ImplementationOne":"Success Story",
+    "ImplementationTwo":"Banco Regional S.A.",
+    "ImplementationThree":"150+ employees",
+    "ImplementationFour":"50,000+ daily transactions",
+    "ImplementationFive":"Implementation: 45 days",
+    "ImplementationSix":"ROI: 6 months",
+
+   "SuccessStories":"----------------", 
+   
+   "SuccessStoriesTitleOne":"Reduction of manual errors",
+   "SuccessStoriesTitleOneTwo":"Banco Internacional Norte",
+
+   "SuccessStoriesTitleTwoOne":"Implementation time",
+   "SuccessStoriesTitleTwoOneTwo":"Regional Central Bank",
+
+   "SuccessStoriesTitleThreeOne":"Average annual savings",
+   "SuccessStoriesTitleThreeOneTwo":"South Business Bank",
+   "Success30":"days",
+
+   "contact":"----------------",
+   "contactTitle": "Find out how we can help you",
+   "contactSubTitle": "Request a personalized demo and discover how it can transform your bank's operations.",
+
+   "contactTitleOne":"Personalized Demo",
+   "contactSubTitleOne":"Presentation tailored to the specific needs of your banking institution",
+
+   "contactTitleTwo":"Free Analysis",
+   "contactSubTitleTwo":"Free assessment of your current processes and opportunities for improvement",
+
+   "contactTitleThree":"Technical Proposal",
+   "contactSubTitleThree":"Detailed implementation plan with schedule and technical specifications",
+
+
+
+   "choose":"----------------",
+    "chooseTitle"        : "Why choose us",
+    "chooseSubTitleOne"  : "+25 years of experience in banking systems",
+    "chooseSubTitleTwo"  : "24/7 specialized technical support",
+    "chooseSubTitleThree": "Rapid implementation (30-60 days)",
+    "chooseSubTitleFour" : "Guaranteed compliance with regulations",
+    "chooseSubTitleFive" : "Proven ROI in less than 6 months",
+    "chooseSubTitleSix"  : "Request Information",
+    "chooseSubTitleSeven": "Complete the form and we will contact you immediately.",
+
+    "contactForm":"----------------",
+    "contactFormL1":"Have questions? We're here to help!",
+    "contactFormL2":"Contact us directly via WhatsApp or email. We will respond as soon as possible!",
+   
+    "contactFormL4":"Our WhatsApp",
+    "contactFormL5":"Spain",
+    "contactFormL6":" Email",
+    "contactFormL7":" By submitting this form, you agree to be contacted by our sales team. Your data is protected according to our privacy policy.",
+    
+  "faqSection":"----------------",
+     "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "We resolve the most common doubts about our Centralized Banking Closing System",
+
+    "question1": "Does the system require data migration?",
+    "answer1": "No, it is designed to operate within your existing AS/400 environment without affecting your current infrastructure. The system natively integrates with your current databases and applications, allowing for an implementation that does not interrupt your daily operations.",
+
+    "question2": "Is it compatible with any version of IBM i?",
+    "answer2": "Yes, it works with the most commonly used versions, starting from version 7.2 onwards. Our system has been tested and certified to work with all current IBM i versions, including the latest updates and security patches.",
+
+    "question3": "Do you offer technical support after implementation?",
+    "answer3": "Of course, we have a specialized team available 24/7 to resolve any incidents. Our support includes proactive monitoring, automatic updates, preventive maintenance, and direct access to engineers specialized in banking systems.",
+
+    "question4": "How long does the implementation take?",
+    "answer4": "It depends on the size of the bank, but on average between 30 and 60 days. This time includes: initial analysis, custom configuration, configuration migration, exhaustive testing, staff training, and production deployment. We guarantee a seamless transition.",
+
+    "question5": "Does the system have control and audit reports?",
+    "answer5": "The system offers a series of pre-designed reports that comply with all regulatory requirements. The system also allows users to design reports according to their needs.",
+
+    "question6": "Can the system generate reports of transactions according to their status after the reconciliation process?",
+    "answer6": "The system classifies and groups all the operations involved in the reconciliation process according to their status, generating the corresponding reports: Settled operations, Rejected operations, Deferred operations, Possible claims, Accounting reports (capital, commissions).",
+
+    "question7": "Does the system have controls for generating and sending data to the different networks, in order to carry out the reconciliation process?",
+    "answer7": "The system incorporates controls to ensure that the records sent to the networks meet the standards required for processing in reconciliation, thus preventing potential transaction returns and guaranteeing their settlement. Additionally, the system offers the flexibility to make partial submissions throughout the day, allowing for continuous monitoring of the data that will be transmitted at the close of business."
+
+
+
+	},
+
+   "Footer":"----------------",
+   "FooterL1":"Centralized Bank Closing",
+   "FooterL2":"Leaders in automation solutions for centralized banking systems. Specializing in native integration with IBM Power I for the financial sector.",
+   "FooterL3":"20+ years of experience",
+   "FooterL4":"7+ banks implemented",
+   "FooterL5":"IBM Power I Certification",
+   "FooterL6":"ISO 20022 Certification",
+   "FooterL7":"24/7 Support",
+   "FooterL8":"Social networks",
+   "FooterL9":"Navigationn",
+   "FooterL10":"Start",
+   "FooterL11":"Services",
+   "FooterL12":"characteristics",
+   "FooterL13":"success stories",
+   "FooterL14":"Resources",
+   "FooterL15":"Technical Documentation",
+   "FooterL16":"Success Stories",
+   "FooterL17":"Webinars",
+   "FooterL18":"Contact Information",
+   "FooterL19":"Caracas, Venezuela.",
+   "FooterL20":"Phone",
+   "FooterL21":"Contact",
+   "FooterL22":"My Whatsapp",
+   "FooterL23":"Main Office",
+
+   "FooterL24":"Opening Hours",
+   "FooterL25":"Monday - Friday",
+   "FooterL26":"Technical Support:",
+   "FooterL27":"Emergencies:",
+
+   "FooterL28":"Copyright © 2025 Consulbank | All Rights Reserved",
+   "FooterL29":"Terms of Service",
+   "FooterL30":"Privacy Policy",
+   "FooterL31": "This website uses cookies to improve your experience. By continuing to browse, you agree to the use of cookies in accordance with our privacy policy.",
+
+   "FootereSpain":"----------------",
+   "FooterL32":"Spain Office", 
+   "FooterL33":"Pozuelo de Alarcón, 28224, Madrid",
+
+   "Certifications":"----------------",
+   "certification1":"Certifications and Compliance:",
+   "certification2":"Information security:",
+   "certification3":"Safety standards:",
+   "certification4":"Data protection",
+   "certification5":"Regulatory compliance"
+
+
+
+
+  
+}

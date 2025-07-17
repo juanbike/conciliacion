@@ -1,0 +1,324 @@
+{
+  "greeting": "¡Hola, mundo!",
+  "welcome": "Bienvenido a mi aplicación.",
+  "dashboard": {
+    "title": "Panel de Control",
+    "users": "Usuarios"
+  },
+  "footer": "Derechos reservados © {{year}}",
+
+  "tituloUnoHeroSection": "Tu banco aún usa",
+  "tituloDosHeroSection": "procesos manuales",
+  "tituloTresHeroSection": "para la Concialiación",
+  "subtituloHeroSection": "Nuestra solución de conciliación electrónica optimiza tu gestión financiera, asegurando una precisión sin igual al sincronizar cada movimiento monetario entre tus registros internos y la facturación de proveedores. Esto facilita la detección temprana de errores y fraudes, mejora la eficiencia de tus canales electrónicos, reduce los reclamos de clientes y genera ahorros significativos al automatizar procesos manuales y propensos a fallos.",
+  "buttonChangeLanguage":"English",
+
+  "headerOneOne":"100% Seguro",
+  "headerOneTwo":"Informes en Tiempo Real",
+  "headerOneThree":"Multi-usuario",  
+
+  "headerTwoOne":"Solicitar Demo Gratuita",
+
+  "headerThreeOne":"Sin compromiso",
+  "headerThreeTwo":"Instalación en 30-60 días",
+  "headerThreeThree":"Soporte 24/7",
+
+  "headerFourOne":"70% Reducción de Tiempo",
+  "headerFourTwo":"99.9% Precisión de Informes",
+
+  "sectionTwoOne-------------": "----------------",
+  "titleSectionTwo": "Los Mayores Desafíos en la Conciliación Electrónica bancaria en sus canales y medios de pago.",
+  "subTitleSectionTwo": "Las instituciones bancarias se encuentran hoy ante una serie de desafíos complejos para conciliar de forma eficiente sus canales electrónicos y medios de pago. A pesar de la creciente automatización, nuevos productos, la magnitud y la naturaleza cambiante de las transacciones digitales presentan obstáculos persistentes que exigen soluciones innovadoras.",
+
+  "columOneOneSectionTwo": "Problemas Actuales",
+
+  "columOneTwoSectionTwoTitle": "Pérdida de tiempo valioso en tareas repetitivas",
+  "columOneTwoSectionTwoSubtitle": "Procesos manuales que consumen horas de trabajo especializado diariamente.",
+
+  "columOneThreeSectionTwoTitle": "Alto riesgo de error humano",
+  "columOneThreeSectionTwosubtitle": "Los fallos frecuentes en la conciliación generan errores en las comisiones, lo que provoca malestar tanto en los bancos afiliados como en los clientes",
+
+  "columOneFourSectionTwoTitle": "Dificultad para cumplir con regulaciones",
+  "columOneFourSectionTwoSubtitle": "Complejidad para generar reportes precisos que cumplan normativas locales e internacionales.",
+
+  "columFiveSectionTwoTitle": "Informes lentos e imprecisos",
+  "columFiveSectionTwoSubtitle": "Generación tardía de reportes que afecta la toma de decisiones estratégicas.",
+
+   "sectionTwoTwo-------------": "----------------",
+
+   "titleSectionTwoTwo": "Nuestra Solución",
+   
+   
+   "columTwoOneSectionTwoTitle": "Sistema de Conciliación Electrónica de Transacciones.",
+   "columTwoOneSectionTwoSubTile": "Garantiza la integridad y la consistencia de los datos financieros en todos los bancos afiliados y redes interconectadas.",
+
+
+   "columTwoTwoSectionTwoTitle": "Conciliación de transacciones en tiempo real o por lotes",
+   "columTwoTwoSectionTwoSubTile": "Garantiza una conciliación automática y exacta de las transacciones entre los bancos interconectados y las redes, identificando los posibles reclamos e optimizando la capacidad de compensación fondos y activos que garantiza la liquidez esté disponible cuando sea necesaria",
+
+   "columTwoThreeSectionTwoTitle": "Detección de fraudes",
+   "columTwoThreeSectionTwoSubTile": "Permite identificar transacciones anómalas o fraudulentas que podrían pasar desapercibidas en un proceso manual.",
+   
+   "columTwoFourSectionTwoTitle": "Eficiencia operativa",
+   "columTwoFourSectionTwoSubTile": "Automatiza un proceso que, de otro modo, sería manual, tedioso y propenso a errores, liberando recursos humanos para tareas de mayor valor.",
+
+   "columTwoFiveSectionTwoTitle": "Cumplimiento normativo",
+   "columTwoFiveSectionTwoSubTile": "Mantiene la exactitud financiera con validaciones y balances diarios. Minimizan el riesgo de errores o disputas, reduciendo aún más los costos potenciales derivados de tales incidentes.",
+
+   "columTwoSixSectionTwoTitle": "Mejora de la experiencia del cliente",
+   "columTwoSixSectionTwoSubTile": " Al resolver rápidamente las discrepancias, se evitan molestias a los clientes y se mejora la confianza en el banco.",
+
+   "columTwoSevenSectionTwoTitle": "El auge de las redes abiertas",
+   "columTwoSevenSectionTwoSubTile": " Sin infraestructura común que permite una comunicación segura y eficiente entre las instituciones participantes, independientemente de sus sistemas o protocolos individuales.",
+
+   "columTwoEightSectionTwoTitle": "Compatibilidad",
+   "columTwoEightSectionTwoSubTile": " No se emplea protocolos y formatos de mensajería estandarizados, no garantiza la compatibilidad e interoperabilidad entre las instituciones participantes.",
+
+   "columTwoNinetSectionTwoTitle": "Innovación",
+   "columTwoNineSectionTwoSubTile": "Integración con empresas de tecnología financiera. Diseñado para adaptarse a las crecientes necesidades de la industria financiera.",
+
+   "columTwoEightSectionTwoTitleCero": "",
+   "columTwoEightSectionTwoSubTileCero": " ",
+
+
+
+ "sectionTwoThree-------------": "----------------",
+
+  "sectionTwoThreeTitle": "Impacto Económico",
+  
+  "sectionTwoThreeSubtitleOne": "Costo anual promedio de   errores",
+  "sectionTwoThreeSubtitleTwo": "Ahorro semanal en procesos manuales",
+
+  "sectionTwoThreeTitletwo": "Beneficios Medibles",
+  
+  "sectionTwoThreeSubtitleOneTwo": "Promedios mensuales LBTR ",
+  "sectionTwoThreeSubtitleTwoTwo": "Reducción costos operativos",
+
+  "sectionTwoFour-------------": "----------------",
+
+  "titleSectionTwoFour": "Logros Obtenidos Por Nuestros Clientes Sector Financiero",
+  "subtitleSectionTwoFour": "Nuestros clientes en el sector bancario han logrado transformar desafíos significativos en ventajas operativas y estratégicas, demostrando una resiliencia y eficiencia excepcionales.",
+
+
+  "keyFeactures------":"----------------",
+
+  "features": {
+    "title": "Ventajas Clave",
+    "subtitle": "Explore las ventajas fundamentales que posicionan nuestra solución como un producto inigualable y altamente eficaz.",
+    "feature1": {
+      "title": "💾 Optimización del Procesamiento Transaccional",
+      "description": "Han logrado una gestión eficiente del gran volumen y la velocidad de las transacciones, procesando, reflejando y conciliando un enorme flujo diario de operaciones en tiempo real, incluso en las condiciones más exigentes."
+    },
+    "feature2": {
+      "title": "📋 Unificación y Normalización de Datos",
+      "description": "Se ha alcanzado una integración exitosa de datos que antes se encontraban dispersos y fragmentados. Esta consolidación incluye transacciones de diversos canales (banca en línea, aplicaciones, pago móvil) y formatos, superando las limitaciones de los sistemas antiguos para ofrecer una visión unificada y precisa de la información."
+    },
+    "feature3": {
+      "title": "🛡️ Simplificación de la Complejidad Operativa",
+      "description": "Nuestros clientes han conseguido simplificar la complejidad transaccional, manejando eficientemente operaciones intrincadas como pagos internacionales, transacciones con divisas, reversiones y la gestión de comisiones y cargos, lo que resulta en una conciliación más ágil y precisa."
+    },
+    "feature4": {
+      "title": "👥 Reducción de Discrepancias y Errores",
+      "description": "Han implementado soluciones que minimizan significativamente las discrepancias y errores, abordando las diferencias de tiempo en el registro de transacciones, los errores humanos o sistémicos y la identificación inexacta de movimientos, reduciendo la necesidad de intervención manual y mejorando la precisión financiera."
+    },
+    "feature5": {
+      "title": "📊 Cumplimiento Normativo Impecable",
+      "description": "Han optimizado su adhesión a regulaciones rigurosas, garantizando una trazabilidad y exactitud impecables en cada operación. La conciliación es ahora crucial para las auditorías y para preservar un expediente regulatorio intachable."
+    },
+    "feature6": {
+      "title": "🔄 Fortalecimiento de la Seguridad y Detección de Fraude",
+      "description": "Han implementado sistemas robustos para la detección de fraude y la ciberseguridad, garantizando la protección de datos sensibles y mitigando eficazmente el creciente riesgo cibernético."
+    }
+  },
+
+  "Cutting-edgeTechnology------":"----------------",
+
+  "Cutting-edgetechnologyTitle":"Otros Beneficios Importantes",
+
+  "Cutting-edgetechnologyTitleOne":"Adaptabilidad y Escalabilidad Futura",
+  "Cutting-edgetechnologySubTitleOne":"Nuestros sistemas están diseñados para ser escalables y flexibles, adaptándose con rapidez al crecimiento exponencial de las transacciones y a la integración de nuevos productos y servicios financieros. Esto incluye soluciones para Proveedores de Servicios de Pago (PSP), criptomonedas y pagos instantáneos, preparando a nuestros clientes para el futuro.",
+
+
+  "Cutting-edgetechnologyTitleTwo":"Toma de decisiones basada en datos",
+  "Cutting-edgetechnologySubTitleTwo":"Genera informes analíticos sobre patrones de transacciones, ayudando a optimizar procesos financieros y estrategias comerciales.",
+
+  "Cutting-edgetechnologyTitleThree":"Alertas tempranas y proactivas",
+  "Cutting-edgetechnologySubTitleThree":"Configura notificaciones automáticas ante irregularidades (como faltantes o duplicaciones), permitiendo acciones rápidas.",
+
+  "Cutting-edgetechnologyTitleFour":"Reducción de costos operativos",
+  "Cutting-edgetechnologySubTitleFour":"Disminuye la necesidad de personal dedicado a revisiones manuales, reduciendo gastos en nómina y posibles multas por errores.",
+
+  "Cutting-edgetechnologyTitleFive":"Integración con otros sistemas financieros",
+  "Cutting-edgetechnologySubTitleFive":"Puede conectarse con ERPs, sistemas de tesorería o plataformas de banca electrónica para un flujo de datos unificado.",
+
+  "Cutting-edgetechnologyTitleSix":"Escalabilidad para alto volumen de transacciones",
+  "Cutting-edgetechnologySubTitleSix":"Permite manejar grandes volúmenes de operaciones sin saturar recursos, ideal para empresas en crecimiento o con picos de actividad.",
+
+
+  "AnalyticsAvanced------":"----------------",
+
+  "AnalyticsAvancedTitle": "Analytics Avanzados",
+
+  "AnalyticsAvancedTitleOne":"Métricas en Vivo",
+  "AnalyticsAvancedSubTitleOne":"Monitoreo continuo de volúmenes, tiempos de procesamiento y tasas de error",
+
+  "AnalyticsAvancedTitleTwo":"Alertas Inteligentes",
+  "AnalyticsAvancedSubTitleTwo":"Notificaciones automáticas ante discrepancias o situaciones que requieren atención",
+
+  "AnalyticsAvancedTitleThree":"Reportes Personalizados",
+  "AnalyticsAvancedSubTitleThree":"Generación de informes específicos según las necesidades de cada departamento",
+
+  "Testimonial------":"----------------",
+  
+  "TestimonialTitleOne":"Desde que implementamos este sistema de cierre centralizado, logramos reducir en un",
+  "TestimonialTitleTwo":"70% el tiempo",
+   "TestimonialTitleThree":"destinado a estos procesos y mejoramos la",
+   "TestimonialTitleFour":"precisión de nuestros informes regulatorios",
+
+   "TestimonialSubTitleFive":"Gerente de Operaciones",
+    "TestimonialSubTitleSix":"Banco Regional S.A.",
+
+    "Result-----":"----------------",
+
+    "ResultTitle":"Resultados Obtenidos:",
+    "ResultOne":"Reducción de tiempo",
+    "ResultTwo":"Precisión de informes",
+    "ResultThree":"Ahorro anual",
+    "ResultFour":"Disponibilidad",
+
+    "ImplementationTitle":"Implementación Exitosa",
+    "ImplementationOne":"Caso de Éxito",
+    "ImplementationTwo":"Banco Regional S.A.",
+    "ImplementationThree":"150+ empleados",
+    "ImplementationFour":"50,000+ transacciones diarias",
+    "ImplementationFive":"Implementación: 45 días",
+    "ImplementationSix":"IROI: 6 meses",
+
+   "SuccessStories":"----------------", 
+   
+   "SuccessStoriesTitleOne":"Reducción de errores manuales",
+   "SuccessStoriesTitleOneTwo":"Banco Internacional Norte",
+
+   "SuccessStoriesTitleTwoOne":"Tiempo de implementación",
+   "SuccessStoriesTitleTwoOneTwo":"Banco Central Regional",
+
+   "SuccessStoriesTitleThreeOne":"Ahorro anual promedio",
+   "SuccessStoriesTitleThreeOneTwo":"Banco Empresarial Sur",
+   "Success30":"días",
+
+   "contact":"----------------",
+   "contactTitle": "Descubre cómo podemos ayudarte",
+   "contactSubTitle": "Solicite una demostración personalizada y descubra cómo puede transformar las operaciones de su banco",
+
+   "contactTitleOne":"Demo Personalizada",
+   "contactSubTitleOne":"Presentación adaptada a las necesidades específicas de su institución bancaria",
+
+   "contactTitleTwo":"Análisis Sin Costo",
+   "contactSubTitleTwo":"Evaluación gratuita de sus procesos actuales y oportunidades de mejora",
+
+   "contactTitleThree":"Propuesta Técnica",
+   "contactSubTitleThree":"Plan de implementación detallado con cronograma y especificaciones técnicas",
+
+
+
+   "choose":"----------------",
+    "chooseTitle"        : "Por qué elegirnos",
+    "chooseSubTitleOne"  : "+25 años de experiencia en sistemas bancarios",
+    "chooseSubTitleTwo"  : "Soporte técnico especializado 24/7",
+    "chooseSubTitleThree": "Implementación rápida (30-60 días)",
+    "chooseSubTitleFour" : "Cumplimiento garantizado con normativas",
+    "chooseSubTitleFive" : "ROI comprobado en menos de 6 meses",
+    "chooseSubTitleSix"  : " Solicitar Información",
+    "chooseSubTitleSeven": "Complete el formulario y nos pondremos en contacto inmediatamente",
+
+    "contactForm":"----------------",
+    "contactFormL1":"¿Tienes preguntas? ¡Estamos aquí para ayudarte!",
+    "contactFormL2":"Contáctanos directamente por WhatsApp o por correo electrónico. ¡Te responderemos lo antes posible!",
+    
+    "contactFormL4":"Nuestro WhatsApp",
+    "contactFormL5":"España",
+    "contactFormL6":"Correo Electrónico",
+    "contactFormL7":" Al enviar este formulario, acepta ser contactado por nuestro equipo comercial.Sus datos están protegidos según nuestra política de privacidad.",
+    
+     "faqSection":"----------------",
+  
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "subtitle": "Resolvemos las dudas más comunes sobre nuestro Sistema de Cierre Centralizado Bancario",
+
+    "question1": "¿El sistema requiere migración de datos?",
+    "answer1": "No, está diseñado para operar dentro del entorno AS/400 existente sin afectar tu infraestructura actual. El sistema se integra nativamente con sus bases de datos y aplicaciones actuales, permitiendo una implementación sin interrupciones en sus operaciones diarias.",
+
+    "question2": "¿Es compatible con cualquier versión de IBM i?",
+    "answer2": "Sí, funciona con las versiones más utilizadas, desde la 7.2 en adelante. Nuestro sistema ha sido probado y certificado para trabajar con todas las versiones actuales de IBM i, incluyendo las últimas actualizaciones y parches de seguridad.",
+
+    "question3": "¿Ofrecen soporte técnico post-implementación?",
+    "answer3": "Por supuesto, contamos con un equipo especializado disponible 24/7 para resolver cualquier incidencia. Nuestro soporte incluye monitoreo proactivo, actualizaciones automáticas, mantenimiento preventivo y acceso directo a ingenieros especializados en sistemas bancarios.",
+
+    "question4": "¿Cuánto tiempo toma la implementación?",
+    "answer4": "Depende del tamaño del banco, pero en promedio entre 30 y 60 días. Este tiempo incluye: análisis inicial, configuración personalizada, migración de configuraciones, pruebas exhaustivas, capacitación del personal y puesta en producción. Garantizamos una transición sin interrupciones.",
+
+    "question5": "¿El sistema cuenta con informes de controles y auditoría?",
+    "answer5": "El sistema cuenta con una serie de reportes prediseñados que cumplen con todas las normativas exigidas por los organismos reguladores. Asimismo, el sistema permite al usuario diseñar reportes según sus necesidades.",
+
+    "question6": "¿El sistema puede generar reportes de las operaciones según su estatus, después del proceso de conciliación?",
+    "answer6": "El sistema clasifica y agrupa todas las operaciones que intervinieron en el proceso de conciliación según su estado, generando los informes correspondientes: Operaciones liquidadas, Operaciones rechazadas, Operaciones diferidas, Posibles reclamos, Informes contables (capital, comisiones)",
+    
+    "question7": "¿El sistema posee controles para la generación y envío de datos a las distintas redes, con el fin de realizar el proceso de conciliación?",
+    "answer7": "El sistema incorpora controles para asegurar que los registros a ser enviados a las redes cumplan con los estándares requeridos para su procesamiento en la conciliación, previniendo así posibles devoluciones de operaciones y garantizando su liquidación. Adicionalmente, el sistema ofrece la flexibilidad de realizar envíos parciales a lo largo del día, lo que permite un monitoreo continuo de los datos que se transmitirán al cierre de la jornada."
+
+
+  },	
+
+   "Footer":"----------------",
+   "FooterL1":"Cierre Centralizado Bancario",
+   "FooterL2":"Líderes en soluciones de automatización para sistemas de Cierre Centralizado Bancario.Especializados en integración nativa con IBM Power I para el sector financiero.",
+   "FooterL3":"20+ años de experiencia",
+   "FooterL4":"7+ bancos implementados",
+   "FooterL5":"Certificación IBM Power I",
+   "FooterL6":"Certificación ISO 20022",
+   "FooterL7":"Soporte 24/7",
+   "FooterL8":"Redes Sociales",
+   "FooterL9":"Navegación",
+   "FooterL10":"Inicio",
+   "FooterL11":"Servicios",
+   "FooterL12":"Características",
+   "FooterL13":"Casos de Éxito",
+   "FooterL14":"Recursos",
+   "FooterL15":"Documentación Técnica",
+   "FooterL16":"Casos de Exito",
+   "FooterL17":"Webinars",
+   "FooterL18":"Información de Contacto",
+   "FooterL19":"Caracas, Venezuela.",
+   "FooterL20":"Movil",
+   "FooterL21":"Contacto",
+   "FooterL22":"Mi Whatsapp",
+   "FooterL23":"Oficina Principal",
+
+   "FooterL24":"Horarios de Atención",
+   "FooterL25":"Lunes - Viernes",
+   "FooterL26":"Soporte Técnico:",
+   "FooterL27":"Emergencias:",
+
+   "FooterL28":"Copyright © 2025 Consulbank | Todos Los Derechos Reservados",
+   "FooterL29":"Términos de Servicio",
+   "FooterL30":"Política de Privacidad",
+   "FooterL31": "Este sitio web utiliza cookies para mejorar su experiencia. Al continuar navegando, acepta el uso de cookies de acuerdo con nuestra política de privacidad.",
+
+   "FootereSpain":"----------------",
+   "FooterL32":"Oficina España", 
+   "FooterL33":"Pozuelo de Alarcón, 28224, Madrid",
+
+   "Certifications":"----------------",
+   "certification1":"Certificaciones y Cumplimiento:",
+   "certification2":"Seguridad de la información:",
+   "certification3":"Estándares de seguridad:",
+   "certification4":"Protección de datos",
+   "certification5":"Cumplimiento regulatorio"
+
+}
+
+
+
+    
+
